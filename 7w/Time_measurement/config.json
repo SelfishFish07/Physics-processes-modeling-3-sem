@@ -1,0 +1,9 @@
+{
+    "dt": 0.001,
+    "x0": 0.17453292519943295,
+    "v0": 0,
+    "w": 5,
+    "k": 0.1,
+    "steps": 10000000,
+    "output_path": "/workspaces/Physics-processes-modeling-3-sem/7w/Time_measurement/time.txt"
+}
