@@ -1,0 +1,11 @@
+{
+    "dt": 0.001,
+    "x0": 0.17453292519943295,
+    "v0": 0.0,
+    "w": 5.0,
+    "k": 0.1,
+    "steps": 100000,
+    "output_path_rk4": "/workspaces/Physics-processes-modeling-3-sem/7w/Non-linear/output/rk4.txt",
+    "output_path_h": "/workspaces/Physics-processes-modeling-3-sem/7w/Non-linear/output/h.txt",
+    "output_path_e": "/workspaces/Physics-processes-modeling-3-sem/7w/Non-linear/output/e.txt"
+}
